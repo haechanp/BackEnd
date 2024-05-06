@@ -4,7 +4,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <!-- CSS 파일 경로를 JSP로 변경 -->
     <link rel="stylesheet" href="<%= request.getContextPath() %>/main.css">
     <style>
         body {
@@ -113,7 +112,7 @@
     <div id="head">
         <div class="head_top">
             <div class="logo">
-                <img src="" alt="(로고, 사이트 이름)">
+                <img src="" alt="Alcohol man">
             </div>
             <div class="head_search">
                 <form action="">
