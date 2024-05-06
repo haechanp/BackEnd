@@ -72,7 +72,7 @@
 </head>
 <body>
     <div class="content">
-        <h1>주류 회사 홈페이지(회사 이름)</h1>
+        <h1>Alcohol man</h1>
         <p>주류 회사 홈페이지 사진</p>
     </div>
     <div class="login-container-wrapper">
